@@ -1,0 +1,20 @@
+[
+    {
+        "property_type": "HDB",
+        "request_text": "Break down wall",
+        "area": 100.0,
+        "ai_tasks": [
+            "Wall Hacking",
+            "Tiling"
+        ],
+        "ai_materials": [
+            "Tiles",
+            "Grout"
+        ],
+        "material_cost": 5500.0,
+        "labor_cost": 5000.0,
+        "surcharges": 300.0,
+        "total_cost": 10800.0,
+        "status": "REQUIRES_ENGINEER_APPROVAL"
+    }
+]
